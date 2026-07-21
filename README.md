@@ -27,3 +27,4 @@ python password_generator.py
 - Using Python modules.
 - Working with loops and random data generation.
 - Improving code readability through better organization and naming.
+
