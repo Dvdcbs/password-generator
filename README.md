@@ -1,7 +1,7 @@
 # Password Generator
 
 ## Description
-- This is my first ever program ever  - Yay! 
+- This is my first program ever  - Yay! 
 - A Python-based password generator developed as my first portfolio project. This application generates secure random passwords while practicing fundamental programming concepts, including variables, functions, loops, modules, and code organization.
 
 ## Features
